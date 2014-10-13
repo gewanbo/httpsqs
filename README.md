@@ -7,3 +7,5 @@ Note: Author of the project is Zhang Yan. Encountered some problems in learning 
 
 Website：http://code.google.com/p/httpsqs/
 Document：http://blog.zyan.cc/httpsqs/
+Document API for Tokyo Cabinet's B+Tree: http://linux.die.net/man/3/tcbdb
+
